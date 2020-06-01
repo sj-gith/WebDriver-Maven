@@ -17,7 +17,7 @@ public class LoginTest {
 
 		driver = new ChromeDriver();
 
-		System.out.println("chrome launched");
+		//System.out.println("chrome launched");
 	}
 
 	@Test
