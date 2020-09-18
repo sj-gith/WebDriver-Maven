@@ -32,8 +32,7 @@ public class LoginTest {
 		driver.findElement(By.id("identifierId")).sendKeys("sajessu@gmail.com");
 		driver.findElement(By.className("VfPpkd-RLmnJb")).click();
 		System.out.println("clicked on next button");
-		driver.close();
-
+		
 	}
 
 	@AfterSuite
